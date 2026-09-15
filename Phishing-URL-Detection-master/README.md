@@ -155,20 +155,6 @@ The application will start locally and can be accessed through the URL shown in 
 
 ## Model Evaluation
 
-The project compares five machine learning models and evaluates their performance on the phishing URL dataset.
-
-The final results should be updated below using the results obtained from the current version of the notebook:
-
-| Model               | Accuracy | Precision | Recall | F1-Score |
-| ------------------- | -------: | --------: | -----: | -------: |
-| Logistic Regression |        — |         — |      — |        — |
-| Decision Tree       |        — |         — |      — |        — |
-| Random Forest       |        — |         — |      — |        — |
-| SVM                 |        — |         — |      — |        — |
-| Gradient Boosting   |        — |         — |      — |        — |
-
-> **Note:** The values above should be replaced with the results generated from the current notebook rather than using results from the original project.
-
 ## Feature Importance
 
 Feature importance is analyzed using the trained Gradient Boosting model to understand which URL and webpage characteristics contribute most to the classification.
